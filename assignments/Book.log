@@ -1,0 +1,41 @@
+INFO : India that is Bharat checked out, 6 available copies
+INFO : India that is Bharat checked out, 5 available copies
+INFO : India that is Bharat is returned, 6 available copies
+INFO : India that is Bharat checked out, 6 available copies
+INFO : India that is Bharat checked out, 5 available copies
+INFO : India that is Bharat is returned, 6 available copies
+INFO : India that is Bharat checked out, 6 available copies
+INFO : India that is Bharat checked out, 5 available copies
+INFO : India that is Bharat is returned, 6 available copies
+INFO : India that is Bharat checked out, 6 available copies
+INFO : India that is Bharat checked out, 5 available copies
+INFO : India that is Bharat is returned, 6 available copies
+INFO : Ticket booked for Pune-Mumbai Intercity, 30-07-2023
+INFO : Reservation cancelled for Banglore-Hydrabad Express 30-07-2023, seat number S15-9
+INFO : Ticket booked for Mumbai-Ahmadabad Express, 30-07-2023
+INFO : Reservation already cancelled for Banglore-Hydrabad Express 30-07-2023, seat number S15-9
+INFO : Ticket booked for Pune-Mumbai Intercity, 30-07-2023, seat number A101
+INFO : Reservation cancelled for Banglore-Hydrabad Express 30-07-2023, seat number S15-9
+INFO : Ticket booked for Mumbai-Ahmadabad Express, 30-07-2023, seat number S9-10
+INFO : Reservation already cancelled for Banglore-Hydrabad Express 30-07-2023, seat number S15-9
+INFO : Item added in cart: {'id': 1, 'itemName': 'Prestige pressure cooker', 'price': '2500'}
+INFO : Item added in cart: {'id': 2, 'itemName': 'Cutting pad', 'price': '320'}
+INFO : Item added in cart: {'id': 3, 'itemName': 'Swiss Knife set', 'price': '1600'}
+INFO : Item added in cart: {'id': 4, 'itemName': 'Juicer', 'price': '3500'}
+INFO : Item removed from cart {'id': 3, 'itemName': 'Swiss Knife set', 'price': '1600'}
+INFO : Shopping cart is cleared
+INFO : Item added in cart: {'id': 1, 'itemName': 'Prestige pressure cooker', 'price': '2500'}
+INFO : Item added in cart: {'id': 2, 'itemName': 'Cutting pad', 'price': '320'}
+INFO : Item added in cart: {'id': 3, 'itemName': 'Swiss Knife set', 'price': '1600'}
+INFO : Item added in cart: {'id': 4, 'itemName': 'Juicer', 'price': '3500'}
+INFO : Item removed from cart {'id': 3, 'itemName': 'Swiss Knife set', 'price': '1600'}
+INFO : Shopping cart is cleared
+INFO : Attendance report of Student 3: [{'attendanceDate': '01-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '02-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '03-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '04-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '05-June-2023', 'attendance': 'Absent'}]
+INFO : Attendance added for Student 3
+INFO : Attendance report of Student 3: [{'attendanceDate': '01-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '02-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '03-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '04-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '05-June-2023', 'attendance': 'Absent'}]
+INFO : Attendance added for Student 3
+ERROR : unhashable type: 'list'
+INFO : Attendance report of Student 3: [{'attendanceDate': '01-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '02-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '03-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '04-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '05-June-2023', 'attendance': 'Absent'}]
+INFO : Attendance added for Student 3
+INFO : Attendance report of Student 3: [{'attendanceDate': '01-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '02-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '03-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '04-June-2023', 'attendance': 'Absent'}, {'attendanceDate': '05-June-2023', 'attendance': 'Absent'}]
+INFO : Attendance added for Student 3
